@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itch.Core", "Itch.Core\Itch.Core.csproj", "{58FC15C5-FB96-443D-B83A-1C7FDE533101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itch.Monolith", "Itch.Monolith\Itch.Monolith.csproj", "{58FC15C5-FB96-443D-B83A-1C7FDE533102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itch.Replay", "Itch.Replay\Itch.Replay.csproj", "{58FC15C5-FB96-443D-B83A-1C7FDE533103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itch.Consumer", "Itch.Consumer\Itch.Consumer.csproj", "{58FC15C5-FB96-443D-B83A-1C7FDE533104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itch.Verify", "Itch.Verify\Itch.Verify.csproj", "{58FC15C5-FB96-443D-B83A-1C7FDE533105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itch.Tests", "Itch.Tests\Itch.Tests.csproj", "{58FC15C5-FB96-443D-B83A-1C7FDE533106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FC15C5-FB96-443D-B83A-1C7FDE533101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FC15C5-FB96-443D-B83A-1C7FDE533106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
